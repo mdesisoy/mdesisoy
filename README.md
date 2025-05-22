@@ -15,7 +15,7 @@ Eager to learn and continue growing in the software development industry.
 
 ## 🛠 Skills
 
-Lenguajes y frameworks:
+Languages ​​and frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="c#" alt="c#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ Lenguajes y frameworks:
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="spring" alt="spring" width="40" height="40"/>
 </div>
 
-Tecnologías web:
+Web technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="angular" alt="angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -32,12 +32,12 @@ Tecnologías web:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="40" height="40"/>
 </div>
 
-Bases de datos:
+Databases:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="mysql" alt="mysql" width="40" height="40"/>
 </div>
 
-Herramientas de desarrollo:
+Development tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"  title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
@@ -48,12 +48,12 @@ Herramientas de desarrollo:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="postman" alt="postman" width="40" height="40"/>
 </div>
 
-Sistemas operativos:
+Operating systems:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" height="40"/>
 </div>
 
-Motores de videojuegos:
+Game engines:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"  title="unity" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="godot" alt="godot" width="40" height="40"/>
