@@ -33,23 +33,31 @@ Tecnologías web:
 </div>
 
 Bases de datos:
-![mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="mysql" alt="mysql" width="40" height="40"/>
+</div>
 
 Herramientas de desarrollo:
-![visualstudio](https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg)
-![vscode](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
-![eclipse](https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg)
-![git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
-![dbeaver](https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg)
-![docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg)
-![postman](https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"  title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg"  title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"  title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg"  title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="postman" alt="postman" width="40" height="40"/>
+</div>
 
 Sistemas operativos:
-![linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="linux" alt="linux" width="40" height="40"/>
+</div>
 
 Motores de videojuegos:
-![unity](https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg)
-![godot](https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"  title="unity" alt="unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="godot" alt="godot" width="40" height="40"/>
+</div>
 
 
 ## 🔗 Links
