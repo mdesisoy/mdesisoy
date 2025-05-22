@@ -16,17 +16,21 @@ Eager to learn and continue growing in the software development industry.
 ## 🛠 Skills
 
 Lenguajes y frameworks:
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="c#" alt="c#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="spring" alt="spring" width="40" height="40"/>;
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="c#" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="spring" alt="spring" width="40" height="40"/>
+</div>
 
 Tecnologías web:
-![angular](https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg)
-![bootstrap](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg)
-![css3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
-![html5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"  title="angular" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="html5" alt="html5" width="40" height="40"/>
+</div>
 
 Bases de datos:
 ![mysql](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
