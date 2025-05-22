@@ -16,11 +16,11 @@ Eager to learn and continue growing in the software development industry.
 ## 🛠 Skills
 
 Lenguajes y frameworks:
-![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
-![.NET](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg)
-![java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
-![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
-![spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="c#" alt="c#" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"  title="java" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"  title="spring" alt="spring" width="40" height="40"/>;
 
 Tecnologías web:
 ![angular](https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg)
@@ -53,6 +53,4 @@ Motores de videojuegos:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-lozano-ledesma/)
 
 
----
----
 ---
