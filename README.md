@@ -1,7 +1,7 @@
 
 # Hi there! I'm María 👋
 
-Junior developer specializing in C# and .NET. Passionate about backend programming and working with relational databases. 
+A junior developer specializing in C# and .NET. Passionate about backend programming and working with relational databases. 
 Eager to learn and continue growing in the software development industry.
 
 
